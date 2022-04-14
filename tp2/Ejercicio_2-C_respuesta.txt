@@ -1,0 +1,2 @@
+2)a) Para realizar esra extensión del modelo ¿necesitó modificar la clase Empresa? ¿Por qué?
+ -No es necesario modificar la clase empresa ya que al implementar el empleadoContratado se modelo en forma de que sea polimorfica con EmpleadoPlantaPermanente y EmpleadoPlantaTemporaria en los mensajes sueldoNeto,sueldoBruto,retenciones y hacerReciboDeHberes.  
